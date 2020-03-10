@@ -726,6 +726,10 @@ body {
   margin-bottom: 3.5em;
 }
 
+main {
+  margin-bottom: 2em;
+}
+
 .header {
   background-color: #c0c9c7;
   height: 10%;
@@ -854,18 +858,7 @@ body {
   height: 1.75em;
   width: 100%;
   font-size: 1.2em;
-  margin-left: 0.5em;
-}
-.footer__toFilter {
-  display: flex;
-  flex-direction: row;
-  justify-content: center;
-  align-items: center;
-  background-color: #c0c9c7;
-  height: 1.75em;
-  width: 100%;
-  font-size: 1.2em;
-  margin-right: 0.5em;
+  margin: 0.5em;
 }
 
 * {
