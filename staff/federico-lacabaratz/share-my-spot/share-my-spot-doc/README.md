@@ -31,13 +31,9 @@ The application allows both owners and not-owners of parking places, to be able 
 
 ![Blocks](./images/blocks.png)
 
-### Modules
+### Components
 
-![Modules](./images/modules.png)
-
-### Sequences
-
-![Sequences](./images/sequence.png)
+![Modules](./images/components.png)
 
 ### Classes
 
@@ -46,3 +42,7 @@ The application allows both owners and not-owners of parking places, to be able 
 ### Data Model
 
 ![Data Model](./images/dataModel.png)
+
+### Technologies
+
+Javascript, ReactJS, Node.js, Express, MongoDB, Mongoose, SASS. Testing: Jest & Mocha/Chai
