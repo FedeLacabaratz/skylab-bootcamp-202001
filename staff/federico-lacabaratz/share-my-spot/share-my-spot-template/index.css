@@ -37,7 +37,7 @@ main {
   font-size: 1em;
 }
 
-.yourSpots__bottom, .detail__mAbook, .detail__bottom, .detail__photo, .results__bottom, .item__bottom, .header__account, .header__logo, .header__container {
+.yourBookings__buttons-call, .yourBookings__buttons-envelope, .yourBookings__bottom, .manageRequests__buttons, .manageRequests__bottom, .yourSpots__bottom, .detail__mAbook, .detail__bottom, .detail__photo, .results__bottom, .item__bottom, .header__account, .header__logo, .header__container {
   display: flex;
   flex-direction: row;
   align-items: center;
@@ -61,7 +61,7 @@ main {
   font-size: 1em;
 }
 
-.yourSpots__bottom, .detail__mAbook, .detail__bottom, .detail__photo, .results__bottom, .item__bottom, .header__account, .header__logo, .header__container {
+.yourBookings__buttons-call, .yourBookings__buttons-envelope, .yourBookings__bottom, .manageRequests__buttons, .manageRequests__bottom, .yourSpots__bottom, .detail__mAbook, .detail__bottom, .detail__photo, .results__bottom, .item__bottom, .header__account, .header__logo, .header__container {
   display: flex;
   flex-direction: row;
   align-items: center;
@@ -132,7 +132,7 @@ main {
   font-size: 1em;
 }
 
-.yourSpots__bottom, .detail__mAbook, .detail__bottom, .detail__photo, .results__bottom, .item__bottom, .header__account, .header__logo, .header__container {
+.yourBookings__buttons-call, .yourBookings__buttons-envelope, .yourBookings__bottom, .manageRequests__buttons, .manageRequests__bottom, .yourSpots__bottom, .detail__mAbook, .detail__bottom, .detail__photo, .results__bottom, .item__bottom, .header__account, .header__logo, .header__container {
   display: flex;
   flex-direction: row;
   align-items: center;
@@ -203,7 +203,7 @@ main {
   font-size: 1em;
 }
 
-.yourSpots__bottom, .detail__mAbook, .detail__bottom, .detail__photo, .results__bottom, .item__bottom, .header__account, .header__logo, .header__container {
+.yourBookings__buttons-call, .yourBookings__buttons-envelope, .yourBookings__bottom, .manageRequests__buttons, .manageRequests__bottom, .yourSpots__bottom, .detail__mAbook, .detail__bottom, .detail__photo, .results__bottom, .item__bottom, .header__account, .header__logo, .header__container {
   display: flex;
   flex-direction: row;
   align-items: center;
@@ -264,7 +264,7 @@ main {
   font-size: 1em;
 }
 
-.yourSpots__bottom, .detail__mAbook, .detail__bottom, .detail__photo, .results__bottom, .item__bottom, .header__account, .header__logo, .header__container {
+.yourBookings__buttons-call, .yourBookings__buttons-envelope, .yourBookings__bottom, .manageRequests__buttons, .manageRequests__bottom, .yourSpots__bottom, .detail__mAbook, .detail__bottom, .detail__photo, .results__bottom, .item__bottom, .header__account, .header__logo, .header__container {
   display: flex;
   flex-direction: row;
   align-items: center;
@@ -364,7 +364,7 @@ main {
   font-size: 1em;
 }
 
-.yourSpots__bottom, .detail__mAbook, .detail__bottom, .detail__photo, .results__bottom, .item__bottom, .header__container, .header__logo, .header__account {
+.yourBookings__buttons-call, .yourBookings__buttons-envelope, .yourBookings__bottom, .manageRequests__buttons, .manageRequests__bottom, .yourSpots__bottom, .detail__mAbook, .detail__bottom, .detail__photo, .results__bottom, .item__bottom, .header__container, .header__logo, .header__account {
   display: flex;
   flex-direction: row;
   align-items: center;
@@ -383,7 +383,7 @@ main {
   align-items: center;
   text-align: center;
   background-color: #5cddc8;
-  height: auto;
+  height: 100vh;
   width: 100%;
 }
 .search__container {
@@ -430,7 +430,7 @@ main {
   font-size: 1em;
 }
 
-.yourSpots__bottom, .detail__mAbook, .detail__bottom, .detail__photo, .results__bottom, .item__bottom, .header__container, .header__logo, .header__account {
+.yourBookings__buttons-call, .yourBookings__buttons-envelope, .yourBookings__bottom, .manageRequests__buttons, .manageRequests__bottom, .yourSpots__bottom, .detail__mAbook, .detail__bottom, .detail__photo, .results__bottom, .item__bottom, .header__container, .header__logo, .header__account {
   display: flex;
   flex-direction: row;
   align-items: center;
@@ -506,7 +506,7 @@ main {
   font-size: 1em;
 }
 
-.yourSpots__bottom, .detail__mAbook, .detail__bottom, .detail__photo, .results__bottom, .header__container, .header__logo, .header__account, .item__bottom {
+.yourBookings__buttons-call, .yourBookings__buttons-envelope, .yourBookings__bottom, .manageRequests__buttons, .manageRequests__bottom, .yourSpots__bottom, .detail__mAbook, .detail__bottom, .detail__photo, .results__bottom, .header__container, .header__logo, .header__account, .item__bottom {
   display: flex;
   flex-direction: row;
   align-items: center;
@@ -581,7 +581,7 @@ main {
   font-size: 1em;
 }
 
-.yourSpots__bottom, .detail__mAbook, .detail__bottom, .detail__photo, .header__container, .header__logo, .header__account, .item__bottom, .results__bottom {
+.yourBookings__buttons-call, .yourBookings__buttons-envelope, .yourBookings__bottom, .manageRequests__buttons, .manageRequests__bottom, .yourSpots__bottom, .detail__mAbook, .detail__bottom, .detail__photo, .header__container, .header__logo, .header__account, .item__bottom, .results__bottom {
   display: flex;
   flex-direction: row;
   align-items: center;
@@ -706,7 +706,7 @@ main {
   font-size: 1em;
 }
 
-.yourSpots__bottom, .header__container, .header__logo, .header__account, .item__bottom, .results__bottom, .detail__photo, .detail__bottom, .detail__mAbook {
+.yourBookings__buttons-call, .yourBookings__buttons-envelope, .yourBookings__bottom, .manageRequests__buttons, .manageRequests__bottom, .yourSpots__bottom, .header__container, .header__logo, .header__account, .item__bottom, .results__bottom, .detail__photo, .detail__bottom, .detail__mAbook {
   display: flex;
   flex-direction: row;
   align-items: center;
@@ -781,7 +781,7 @@ main {
   font-size: 1em;
 }
 
-.header__container, .header__logo, .header__account, .item__bottom, .results__bottom, .detail__photo, .detail__bottom, .detail__mAbook, .yourSpots__bottom {
+.yourBookings__buttons-call, .yourBookings__buttons-envelope, .yourBookings__bottom, .manageRequests__buttons, .manageRequests__bottom, .header__container, .header__logo, .header__account, .item__bottom, .results__bottom, .detail__photo, .detail__bottom, .detail__mAbook, .yourSpots__bottom {
   display: flex;
   flex-direction: row;
   align-items: center;
@@ -860,8 +860,7 @@ main {
   margin: 0.5em;
   font-size: 1em;
 }
-
-footer .addSpot__submit {
+.addSpot .addSpot__submit {
   display: flex;
   flex-direction: row;
   justify-content: center;
@@ -872,6 +871,159 @@ footer .addSpot__submit {
   width: 75%;
   font-size: 1.2em;
   border-radius: 0.5em;
+}
+
+.login__h2, .register__h2, .updateUser__h2 {
+  font-weight: bold;
+  color: #000000;
+  font-size: 1.75em;
+}
+
+.login__toRegister, .register__toLogin {
+  font-weight: bold;
+  color: #000000;
+  font-size: 1em;
+}
+
+.yourBookings__buttons-call, .yourBookings__buttons-envelope, .yourBookings__bottom, .manageRequests__buttons, .manageRequests__bottom, .header__container, .header__logo, .header__account, .item__bottom, .results__bottom, .detail__photo, .detail__bottom, .detail__mAbook, .yourSpots__bottom {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.login, .register, .updateUser, .search__container, .search__backgroundImg, .item__container, .item__photo, .results__container, .results__photo, .detail__container, .yourSpots__container, .yourSpots__photo {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.manageRequests {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  text-align: center;
+  background-color: #5cddc8;
+  height: 100vh;
+  width: 100%;
+  margin-bottom: 1.5em;
+}
+.manageRequests__container {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  background-color: #ffffff;
+  align-items: center;
+  height: 35vh;
+  border: 1px solid black;
+  margin: 1.5em;
+}
+.manageRequests__h3 {
+  text-align: center;
+  margin: 1.5em;
+  font-weight: bold;
+}
+.manageRequests__p {
+  margin: 1.5em;
+  text-align: center;
+  font-size: 1em;
+  color: #857f7f;
+}
+.manageRequests__bottom {
+  justify-content: center;
+  align-items: center;
+  height: 3em;
+  padding: 1.5em;
+  width: 100%;
+  margin: 1.5em;
+}
+.manageRequests__buttons {
+  justify-content: space-around;
+  align-items: center;
+  background-color: #c0c9c7;
+  border: 1px solid black;
+  height: 1.75em;
+  width: 50%;
+  font-size: 1.2em;
+  border-radius: 0.5em;
+  margin: 0.25em;
+}
+
+.login__h2, .register__h2, .updateUser__h2 {
+  font-weight: bold;
+  color: #000000;
+  font-size: 1.75em;
+}
+
+.login__toRegister, .register__toLogin {
+  font-weight: bold;
+  color: #000000;
+  font-size: 1em;
+}
+
+.yourBookings__buttons-call, .yourBookings__buttons-envelope, .yourBookings__bottom, .header__container, .header__logo, .header__account, .item__bottom, .results__bottom, .detail__photo, .detail__bottom, .detail__mAbook, .yourSpots__bottom, .manageRequests__bottom, .manageRequests__buttons {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.login, .register, .updateUser, .search__container, .search__backgroundImg, .item__container, .item__photo, .results__container, .results__photo, .detail__container, .yourSpots__container, .yourSpots__photo {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.yourBookings {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  text-align: center;
+  background-color: #5cddc8;
+  height: 100vh;
+  width: 100%;
+  margin-bottom: 1.5em;
+}
+.yourBookings__container {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  background-color: #ffffff;
+  align-items: center;
+  height: 42.5vh;
+  border: 1px solid black;
+  margin: 1.5em;
+}
+.yourBookings__h3 {
+  text-align: center;
+  margin: 1.5em;
+  font-weight: bold;
+}
+.yourBookings__p {
+  margin: 1.5em;
+  padding: 1.5em;
+  text-align: center;
+  font-size: 1em;
+  color: #857f7f;
+}
+.yourBookings__bottom {
+  justify-content: center;
+  align-items: center;
+  height: 3em;
+  padding: 1.5em;
+  width: 100%;
+  margin: 1.5em;
+}
+.yourBookings__buttons-call, .yourBookings__buttons-envelope {
+  justify-content: space-around;
+  align-items: center;
+  background-color: #c0c9c7;
+  border: 1px solid black;
+  height: 1.75em;
+  width: 35%;
+  font-size: 1.2em;
+  border-radius: 0.5em;
+  margin: 0.25em;
 }
 
 /*# sourceMappingURL=index.css.map */
