@@ -1,0 +1,55 @@
+@import ./config
+@import ./base-components
+
+body
+    @extend %flexColumnCenter
+    background-color: $genbg-color
+
+.register
+    display: flex
+    justify-content: center
+    align-items: center
+    flex-direction: column
+    border-radius: 0.5em
+    margin: 0.5em
+    padding: 0.5em
+
+    img
+        width: 85%
+    
+    &--hide
+        display: none
+
+    h2
+        @extend %text-H2
+        background-color: $genbg-color
+        padding: 0.5em
+    
+    input
+        display: block
+        text-align: center
+        background-color: $genbg-inputColor
+        border: 1px solid black
+        font-size: 1.25em
+        width: 50%
+        border-radius: 0.5em
+        padding: 0.5em
+        margin: 0.5em
+
+    button
+        display: block
+        text-align: center
+        background-color: $genbg-inputColor
+        border: 1px solid black
+        font-size: 1.2em
+        border-radius: 0.5em
+        padding: 0.5em
+        margin: 0.5em
+    
+    a
+        @extend %text-linkDescription
+        display: block
+        text-align: center
+        font-size: 1em
+        padding: 0.5em
+        margin: 0.5em

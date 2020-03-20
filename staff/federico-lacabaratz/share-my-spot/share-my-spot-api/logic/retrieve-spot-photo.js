@@ -24,7 +24,7 @@ module.exports = function (spotId) {
             if (fs.existsSync(goTo)) {
                 return fs.createReadStream(goTo)
             } else {
-                const defaultImage = path.join(__dirname, `../data/defaultimage/avatar.jpg`)
+                const defaultImage = path.join(__dirname, `../data/defaultimage/avatar00.jpg`)
                 return fs.createReadStream(defaultImage)
             }
         } catch (error) {
