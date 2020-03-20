@@ -1,16 +1,26 @@
 @import config
 @import base-components
 
-.ySpot
+.addSpot
     display: flex
     flex-direction: column
     justify-content: flex-start
     align-items: center
-    background-color: $color-white
-    border: 1px solid black
-    padding-top: 1.5em
-    padding-bottom: 1.5em
-    margin: 1.5em
+    text-align: center
+    background-color: $genbg-color
+    height: auto
+    width: 100%
+
+    &__container
+        display: flex
+        flex-direction: column
+        justify-content: flex-start
+        align-items: center
+        background-color: $color-white
+        border: 1px solid black
+        padding-top: 1.5em
+        padding-bottom: 1.5em
+        margin: 1.5em
 
     &__form
         display: flex
@@ -43,10 +53,15 @@
         width: 60
         margin: 0.5em
 
-    .item__h3
+    &_h3
         text-align: center
         margin: 0.5em
         font-weight: bold
+    
+    &__checkBox
+        text-align: start
+        margin: 0.5em
+        font-size: 1em
     
     p
         text-align: start

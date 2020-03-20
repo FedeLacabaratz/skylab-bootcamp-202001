@@ -769,4 +769,109 @@ main {
   margin: 0.5em;
 }
 
+.login__h2, .register__h2, .updateUser__h2 {
+  font-weight: bold;
+  color: #000000;
+  font-size: 1.75em;
+}
+
+.login__toRegister, .register__toLogin {
+  font-weight: bold;
+  color: #000000;
+  font-size: 1em;
+}
+
+.header__container, .header__logo, .header__account, .item__bottom, .results__bottom, .detail__photo, .detail__bottom, .detail__mAbook, .yourSpots__bottom {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.login, .register, .updateUser, .search__container, .search__backgroundImg, .item__container, .item__photo, .results__container, .results__photo, .detail__container, .yourSpots__container, .yourSpots__photo {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.addSpot {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  text-align: center;
+  background-color: #5cddc8;
+  height: auto;
+  width: 100%;
+}
+.addSpot__container {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  background-color: #ffffff;
+  border: 1px solid black;
+  padding-top: 1.5em;
+  padding-bottom: 1.5em;
+  margin: 1.5em;
+}
+.addSpot__form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: auto;
+  font-size: 1.2em;
+  margin: 0.5em;
+}
+.addSpot__form2 {
+  display: inline-block;
+  height: auto;
+  font-size: 1.2em;
+  margin: 0.5em;
+}
+.addSpot__infoToComplete {
+  background-color: #c0c9c7;
+  text-align: center;
+  font-size: 1em;
+  height: 2.25em;
+  margin: 0.5em;
+}
+.addSpot__infoToComplete-upButton {
+  background-color: #c0c9c7;
+  text-align: center;
+  border: 1px solid black;
+  height: 2em;
+  border-radius: 0.5em;
+  width: 60;
+  margin: 0.5em;
+}
+.addSpot_h3 {
+  text-align: center;
+  margin: 0.5em;
+  font-weight: bold;
+}
+.addSpot__checkBox {
+  text-align: start;
+  margin: 0.5em;
+  font-size: 1em;
+}
+.addSpot p {
+  text-align: start;
+  margin: 0.5em;
+  font-size: 1em;
+}
+
+footer .addSpot__submit {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: flex-start;
+  background-color: #c0c9c7;
+  border: 1px solid black;
+  height: 2em;
+  width: 75%;
+  font-size: 1.2em;
+  border-radius: 0.5em;
+}
+
 /*# sourceMappingURL=index.css.map */
